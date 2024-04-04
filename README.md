@@ -30,7 +30,7 @@ This repository contains a database provided by the company Red de Servicios de 
  It also contains a clean database to which different operations were performed in order to improve the quality of the information provided.
  empty values, duplicate values and also replace values that mean the same thing but were written in a different way. Finally, we visualized if there were outliers for the numerical variables and decided if they are necessary or can be eliminated.
 ## Data manipulation
-
+In the data_manipulation.ipynb file, a connection is made to MySQL to store the data in a specialized database format, and the data that were most relevant to the analysis are re-plotted.
 # Data features
 The file datos_apuestas_limpio.csv contains 23079 samples each describing 11 characteristics of the person to be analyzed, these 11 characteristics are:
 - month (month in which the chance was played)           type(string)

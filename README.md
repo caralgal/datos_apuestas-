@@ -2,9 +2,9 @@
 **Introduction:** This repository houses data on the registry of chances taken by Colombians in the South Pacific zone.  
 the data is public and anonymous
 ## Programs Used
-**python** 3.10 and newer
-**MySQL Workbench 8.0 CE**
-## Table of contents
+- **python** 3.10 and newer
+- **MySQL Workbench 8.0 CE**
+# Table of contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -19,7 +19,9 @@ the data is public and anonymous
 
 # Planting of the problem
 Playing or taking chances is a random process, some people have their favorite numbers, others choose their numbers based on external factors. These second type of people tend to take a long time choosing and putting together their best numbers, this generates queues which translates into time that the customer must wait to make a chance or other operation, sometimes customers prefer to leave than wait.
+
 optimize and provide a good service for these people and not generate congestion, agglomeration or abandonment of customers is the main thing.
+
 what is proposed?
 From patterns and characteristics of the person to create a program that can give recommendations of numbers that are likely to be liked by the customer. for this purpose having good quality data is essential.
 # Content
